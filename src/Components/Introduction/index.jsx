@@ -5,7 +5,7 @@ const Intrudiction = () => {
         <img
           src="https://cdn.sanity.io/images/xmpcmhrn/production/f363771ad3c072ec71f1ea5e8f3868d18de231a6-1200x800.jpg"
           alt="valentina"
-          className="w-full h-auto top-0 relative opacity-80"
+          className="w-full h-screen top-0 relative opacity-80"
         />
         <p className="absolute top-52 w-1/2 right-0 left-6 text-white ubuntu-bold-italic  " >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores porro exercitationem natus necessitatibus maxime! Eveniet architecto unde voluptate voluptas laboriosam error voluptatem eaque, rerum non ratione temporibus cumque dolor corrupti!
