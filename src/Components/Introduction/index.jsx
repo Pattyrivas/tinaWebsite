@@ -10,7 +10,7 @@ const Intrudiction = () => {
         <p className="absolute top-52 w-1/2 right-0 left-6 text-white ubuntu-bold-italic  " >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores porro exercitationem natus necessitatibus maxime! Eveniet architecto unde voluptate voluptas laboriosam error voluptatem eaque, rerum non ratione temporibus cumque dolor corrupti!
         </p>
-        <button className=" absolute top-96 right-0 left-6 w-40 h-30 bg-pink-500 text-white ubuntu-bold-italic rounded-md">
+        <button className=" absolute top-96 right-0 left-6 w-40 h-30 bg-pink-500 hover:bg-pink-300 text-white ubuntu-bold-italic rounded-md">
           CONTACTAME
         </button>
       </div>
