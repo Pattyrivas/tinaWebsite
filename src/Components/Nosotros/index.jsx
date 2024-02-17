@@ -1,6 +1,6 @@
 const Nosotros = () => {
   return (
-    <section className="flex w-full h-1/2 items-center justify-center p-10 gap-10 bg-pink-300">
+    <section id="yo" className="flex w-full h-1/2 items-center justify-center p-10 gap-10 bg-pink-300">
       <div className=" w-full shadow-xl ">
         <img
           src="https://secrecyjewels.es/blog/wp-content/uploads/2022/10/esencia-de-una-persona.jpg"

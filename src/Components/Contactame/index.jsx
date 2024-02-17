@@ -1,6 +1,6 @@
 const Contactame = () => {
   return (
-    <div className="grid grid-cols-2 m-10">
+    <div id="contactame" className="grid grid-cols-2 m-10">
       <div className="flex flex-col items-center justify-center">
         <form action="" className=" flex flex-col gap-3">
           <p

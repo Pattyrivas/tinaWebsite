@@ -1,7 +1,7 @@
 const Portafolio = () => {
   return (
-    <p>portafolio</p>,
-    <section className="bg-pink-200 flex flex-col items-center justify-center">
+    <p >portafolio</p>,
+    <section id="portafolio" className="bg-pink-200 flex flex-col items-center justify-center">
       <div>
         <p className="w-full ubuntu-bold-italic mt-10 text-5xl text-pink-500">Portafolio</p>
       </div>
