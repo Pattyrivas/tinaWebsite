@@ -4,6 +4,7 @@ import { Intrudiction } from '../Introduction'
 import { Nosotros } from '../Nosotros'
 import { Portafolio } from '../Portafolio'
 import { Contactame } from '../Contactame'
+import { Footer } from '../Footer'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Nosotros />
       <Portafolio />
       <Contactame />
+      <Footer />
     </>
   )
 }
