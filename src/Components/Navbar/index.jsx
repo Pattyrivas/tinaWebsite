@@ -12,7 +12,7 @@ const Nav = () => {
     }
   })
   return (
-    <nav className={`${scrollColor} flex items-center justify-between gap-20 pl-20 pr-20 w-full  h-20  z-10 fixed `}>
+    <nav className={`${scrollColor} flex items-center justify-between gap-20 pl-20 pr-20 w-full  h-20  z-30 fixed `}>
       <div>
         <img src="https://img.freepik.com/vector-premium/rosa-logo-flor-vector-icono-ilustracion_662448-599.jpg" alt="logo" width={"50px"} className="rounded-full" />
       </div>
