@@ -1,9 +1,9 @@
 const Portafolio = () => {
   return (
-    <p >portafolio</p>,
-    <section id="portafolio" className="bg-pink-200 flex flex-col items-center justify-center">
+    <section id="portafolio" className="bg-pink-100 flex flex-col items-center justify-center">
       <div>
-        <p className="w-full ubuntu-bold-italic mt-10 text-5xl text-pink-500">Portafolio</p>
+        <p className="w-full ubuntu-bold-italic mt-28 text-5xl text-pink-500">Valen Creative</p>
+        <p className="w-full ubuntu-ligth-italic  text-2xl text-pink-500">GRAPHIC DESIGN PORTFOLIO</p>
       </div>
       <div className=" grid place-items-center gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 w-full max-w-screen=lg  h-screen  p-10">
         <div>

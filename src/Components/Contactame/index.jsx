@@ -18,7 +18,7 @@ const Contactame = () => {
     }
   }
   return (
-    <div id="contactame" className="grid grid-cols-2 m-10">
+    <div id="contactame" className="bg-pink-100 p-10 h-full grid grid-cols-2 ">
       <div className="flex flex-col items-center justify-center">
         <form id="form" action="https://formspree.io/f/xvoeajda" method="POST" onSubmit={handleSubmit} className=" flex flex-col gap-3">
           <p

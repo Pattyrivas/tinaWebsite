@@ -11,9 +11,9 @@ function App() {
   return (
     <>
       <Nav />
+      <Portafolio />
       <Intrudiction />
       <Nosotros />
-      <Portafolio />
       <Contactame />
       <Footer />
     </>

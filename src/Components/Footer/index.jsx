@@ -1,9 +1,9 @@
 const Footer = () => {
   return (
-    <footer className="bg-pink-600 w- full h-20 flex justify-between items-center p-10 m-0">
+    <footer className="bg-pink-100 w- full h-20 flex justify-between items-center p-10 m-0">
       <div className="flex flex-col items-start">
-        <p className="ubuntu-bold-italic text-pink-200 text-4xl">Valen Creative</p>
-        <a className="ubuntu-light text-pink-200">valencreative@gmail.com</a>
+        <p className="ubuntu-bold-italic text-pink-500 text-4xl">Valen Creative</p>
+        <a className="ubuntu-light text-pink-500">valencreative@gmail.com</a>
       </div>
       <div className="flex flex-col items-center justify-center ">
         <p className="ubuntu-medium">Redes Sociales</p>

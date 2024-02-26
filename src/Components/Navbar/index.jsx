@@ -6,20 +6,20 @@ const Nav = () => {
   //escuchar el evento de escroll para cambiar el estado
   window.addEventListener("scroll", (event) => {
     if (window.scrollY > 0) {
-      setScrollColor('bg-pink-500')
+      setScrollColor('border-b border-pink-200')
     } else {
-      setScrollColor('bg-none')
+      setScrollColor('shadow-none')
     }
   })
   return (
-    <nav className={`${scrollColor} flex items-center justify-between gap-20 pl-20 pr-20 w-full  h-10  z-30 fixed `}>
+    <nav className={`${scrollColor}  bg-pink-100 flex items-center justify-between gap-20 pl-20 pr-20 w-full  h-10  z-30 fixed `}>
       <div>
         <img src="https://img.freepik.com/vector-premium/rosa-logo-flor-vector-icono-ilustracion_662448-599.jpg" alt="logo" width={"30px"} className="rounded-full" />
       </div>
-      <div className="flex justify-center items-center gap-10 ubuntu-bold text-white ">
+      <div className={`flex justify-center items-center gap-10 ubuntu-bold text-pink-500  `}>
         <ul className="w-full h-8  hover:text-pink-200  hover:border-b-2 hover:border-b-pink-200  text-center p-2">
           <li className="w-full h-full flex justify-center items-center">
-            <a href="#introduction">HOME</a>
+            <a href="#portafolio">HOME</a>
           </li>
         </ul>
         <ul className="w-full h-8  hover:text-pink-200  hover:border-b-2 hover:border-b-pink-200  text-center p-2">
