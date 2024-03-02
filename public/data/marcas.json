@@ -1,0 +1,44 @@
+[
+    {
+        "id": "nekkoArtboard",
+        "name": "Neko Sushi",
+        "description": "Trabajar en la creación de la marca Nekko Sushi fue una experiencia fascinante y llena de creatividad. Este proyecto nació de la pasión de un chef inspirado en la gastronomía japonesa, que decidió materializar su sueño con un pequeño restaurante en los suburbios de Atlanta. El nombre 'Nekko', que significa raíz en japonés, fue elegido con un profundo significado: representa la conexión del chef con su pasión desde una edad temprana. La palabra 'Nekko' en japonés se integró de manera armoniosa en el logo, añadiendo un toque auténtico y personal. La visión del cliente era clara: una marca innovadora, elegante y divertida que pudiera dar vida a todas sus ideas culinarias. Cada elemento del diseño, desde la paleta de colores hasta la tipografía, fue seleccionado para reflejar la identidad vibrante y creativa de Nekko Sushi",
+        "img": "nekkoArtboard.png",
+        "category":"portafolio"
+    },
+    {
+        "id": "soulArtboard",
+        "name": "Soul Coffe House",
+        "description": "Disfruté mucho trabajar en el rediseño de la marca Soul Coffee House. La marca ubicada en Ecuador, emprende una nueva etapa que refleja la evolución y visión actual de la cliente. Inicialmente centrada en café de especialidad, la nueva identidad de Soul se expande para abrazar su verdadera esencia: un espacio de crecimiento personal. Soul Coffee House no es solo un lugar para café de especialidad; es un rincón donde la visión y esfuerzo de la CEO se traducen en un espacio de empoderamiento femenino. El rediseño, marcado por los colores blanco y negro que transmiten confianza y seriedad, incorpora el rosa para añadir un toque femenino. Fueron incorporados elementos distintivos del café para agregarle personalidad a la marca. La tipografía Bold, elegida con precisión, agrega un elemento de fuerza y claridad a la marca.",
+        "img": "soulArtboard.png",
+        "category":"portafolio"
+    },
+    {
+        "id": "abArtboard",
+        "name": "Alejandra Bermudez Asesora de Imagen",
+        "description": "Trabajar en el desarrollo de la marca Alejandra Bermudez Asesora de Imagen fue un proyecto apasionante y desafiante. El objetivo principal era crear una identidad que permitiera a mujeres y hombres sentirse cómodos y seguros con su apariencia. La CEO tenía una visión clara: representar la marca con su propio nombre, utilizar tonos tierra para transmitir calidez, y reflejar seriedad. Se optó por una tipografía serif delgada y elegante, que encapsula completamente la personalidad de la marca. Cada elemento fue cuidadosamente seleccionado para lograr una representación visual cohesiva y auténtica. El resultado final no solo refleja la visión de la CEO, sino que también establece una conexión significativa entre la marca y su audiencia.",
+        "img": "abArtboard.png",
+        "category":"portafolio"
+    },
+    {
+        "id": "astraArtboard",
+        "name": "Astra Creations",
+        "description": "Astra creations, una marca extraordinaria que tuve el privilegio de diseñar, es la representación visual de la pasión y amor por el arte de nuestra clienta. Es una tienda que se especializa en manualidades y artículos personalizados. La clienta buscaba transmitir diversión y magia. La solicitud de nuestra cliente de incorporar el color morado fue un acierto, ya que este tono no solo simboliza la creatividad, sino que también se convierte en el lienzo perfecto para cada creación única. La tipografía, seleccionada con atención y personalizada con curvas en forma de olas, se convierte en la firma distintiva de Astra. Cada trazo cuenta la historia de la marca, llevando consigo la esencia de movimiento y creatividad.",
+        "img": "astraArtboard.png",
+        "category":"portafolio"
+    },
+    {
+        "id": "goodgArtboard",
+        "name": "Good Gadget",
+        "description": "Trabajar en el desarrollo de la marca Good Gadgets fue un privilegio, una marca concebida para dos socios en un mercado con escasa competencia, que se especializa en la innovación del diseño de casas inteligentes y TV Mountain. Los emprendedores que buscaban una identidad tecnológica, moderna y elegante. Este proyecto se convirtió en un viaje creativo donde la tipografía y los colores, verde menta y morado, fueron cuidadosamente seleccionados para reflejar el dinamismo del mundo tecnológico. A través de un proceso meticuloso, cada elección de diseño se orientó a capturar la esencia de Good Gadgets, ofreciendo servicios que trascienden las expectativas en el diseño de casas inteligentes y en la instalación de TVs.",
+        "img": "goodgArtboard.png",
+        "category":"portafolio"
+    },
+    {
+        "id": "tfArtboard",
+        "name": "The Tidy Freak",
+        "description": "La creación de la marca The Tidy Freak, dedicada a la organización profesional y liderada por dos apasionadas hermanas, fue un proyecto notable. Se enfrentó el gran reto de diferenciarnos en un mercado saturado, donde la mayoría de las competidoras optaban por letras elegantes y delgadas. Nuestra solución fue una tipografía Bold, logrando un diseño limpio y distintivo. Las CEOs de The Tidy Freak compartieron su visión de una marca divertida y jovial, pero igualmente refinada. Los colores fueron seleccionados meticulosamente para transmitir paz, tranquilidad y armonía, reflejando no solo los servicios que ofrecen, sino también cómo sus clientes se sienten en sus hogares.",
+        "img": "tfArtboard.png",
+        "category":"portafolio"
+    }
+]

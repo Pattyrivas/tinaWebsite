@@ -1,4 +1,4 @@
-const Intrudiction = () => {
+const Introduction = () => {
   return (
 
     <div id="introduction" className="w-full h-auto relative top-0  ">
@@ -21,4 +21,4 @@ const Intrudiction = () => {
 
   )
 }
-export { Intrudiction }
+export { Introduction }

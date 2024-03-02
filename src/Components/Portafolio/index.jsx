@@ -1,83 +1,24 @@
+
+
 const Portafolio = () => {
   return (
-    <section id="portafolio" className="bg-pink-100 flex flex-col items-center justify-center pb-20">
-      <div>
-        <p className="w-full ubuntu-bold-italic mt-28 text-5xl text-pink-500">Valen Creative</p>
-        <p className="w-full ubuntu-ligth-italic  text-2xl text-pink-500">GRAPHIC DESIGN PORTFOLIO</p>
+
+    <section id="portafolio" className="text-gray-600 body-font">
+      <div className="container px-5 py-24 mx-auto">
+        <div className="flex flex-wrap -m-4">
+          <div className="lg:w-1/3 sm:w-1/2 p-4">
+            <div className="flex relative">
+              <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/600x360"/>
+                <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+                  <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
+                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
+                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <div className=" grid place-items-center gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 w-full max-w-screen=lg  h-screen  p-10 pr-56 pl-56">
-        <div>
-          <img
-            src="https://www.esneca.com/wp-content/uploads/que-es-diseno-grafico-1200x900.jpg"
-            alt="proyecto valen"
-            className="w-full rounded-md cursor-pointer"
-          />
-          <h3 className="ubuntu-bold-italic text-lg text-pink-500 pl-2 pt-2">
-            Proyecto valen
-          </h3>
-          <p className="ubuntu-lingth text-pink-500 pl-2">descripcion del proyecto bla bla bla... bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <div>
-          <img
-            src="https://www.esneca.com/wp-content/uploads/que-es-diseno-grafico-1200x900.jpg"
-            alt="proyecto valen"
-            className="w-full rounded-md cursor-pointer"
-          />
-          <h3 className="ubuntu-bold-italic text-lg text-pink-500 pl-2 pt-2">
-            Proyecto valen
-          </h3>
-          <p className="ubuntu-lingth text-pink-500 pl-2">descripcion del proyecto bla bla bla... bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <div>
-          <img
-            src="https://www.esneca.com/wp-content/uploads/que-es-diseno-grafico-1200x900.jpg"
-            alt="proyecto valen"
-            className="w-full rounded-md cursor-pointer"
-          />
-          <h3 className="ubuntu-bold-italic text-lg text-pink-500 pl-2 pt-2">
-            Proyecto valen
-          </h3>
-          <p className="ubuntu-lingth text-pink-500 pl-2">descripcion del proyecto bla bla bla... bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <div>
-          <img
-            src="https://www.esneca.com/wp-content/uploads/que-es-diseno-grafico-1200x900.jpg"
-            alt="proyecto valen"
-            className="w-full rounded-md cursor-pointer"
-          />
-          <h3 className="ubuntu-bold-italic text-lg text-pink-500 pl-2 pt-2">
-            Proyecto valen
-          </h3>
-          <p className="ubuntu-lingth text-pink-500 pl-2">descripcion del proyecto bla bla bla... bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <div>
-          <img
-            src="https://www.esneca.com/wp-content/uploads/que-es-diseno-grafico-1200x900.jpg"
-            alt="proyecto valen"
-            className="w-full rounded-md cursor-pointer"
-          />
-          <h3 className="ubuntu-bold-italic text-lg text-pink-500 pl-2 pt-2">
-            Proyecto valen
-          </h3>
-          <p className="ubuntu-lingth text-pink-500 pl-2">descripcion del proyecto bla bla bla... bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <div>
-          <img
-            src="https://www.esneca.com/wp-content/uploads/que-es-diseno-grafico-1200x900.jpg"
-            alt="proyecto valen"
-            className="w-full rounded-md cursor-pointer"
-          />
-          <h3 className="ubuntu-bold-italic text-lg text-pink-500 pl-2 pt-2">
-            Proyecto valen
-          </h3>
-          <p className="ubuntu-lingth text-pink-500 pl-2">descripcion del proyecto bla bla bla... bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-
-
-      </div>
-
-
-    </section>
+    </section >
   )
 }
 
